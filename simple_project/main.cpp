@@ -11,4 +11,5 @@ int main()
     double x2;
     cin >> x2;
     return 0;
+    //Какой-то комментарий
 }

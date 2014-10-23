@@ -10,6 +10,9 @@ int main()
     cout << "Enter x2: ";
     double x2;
     cin >> x2;
+    double result = x1 + x2;
+    std::cout << "Result: " << result;
+    cin.get();
     return 0;
     //Какой-то комментарий
 }

@@ -13,6 +13,8 @@ int main()
     double result = x1 + x2;
     std::cout << "Result: " << result;
     cin.get();
+    double deltaResult = x1 - x2;
+    std::cout << "\nDelta result: " << deltaResult << std::endl;
     return 0;
     //Какой-то комментарий
 }

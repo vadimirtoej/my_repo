@@ -17,4 +17,5 @@ int main()
     std::cout << "\nDelta result: " << deltaResult << std::endl;
     return 0;
     //Какой-то комментарий
+    //Программка так себе
 }
